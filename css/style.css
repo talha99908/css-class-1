@@ -1,0 +1,59 @@
+h2{
+    background-color: black;
+    font-family: "Poetsen One", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: white;
+  text-align: center;
+  background-position: 50%;
+  font-size: 60px;
+      }
+      
+
+
+
+span{
+     color: red;
+     text-decoration: underline;
+     font-size: 60px;
+}
+
+#first_para{
+    background-color: rgb(186, 160, 216);
+    font-family: "Poetsen One", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: white;
+  text-align: center;
+  background-position: 50%;
+  font-size: 30px;
+}
+
+#second_para{
+    background-color: rgb(240, 128, 128);
+    font-family: "Poetsen One", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: white;
+  text-align: center;
+  background-position: 50%;
+  font-size: 30px;
+}
+
+a{
+  background-color: red;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  width: 200px;
+  height: 50px;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  font-family: arial black;
+}
+
+img{
+    width: 2000px;
+    height: 1500px;
+}
